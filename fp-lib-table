@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name s3core)(type KiCad)(uri "$(KIPRJMOD)/s3core.pretty")(options "")(descr ""))
+)
