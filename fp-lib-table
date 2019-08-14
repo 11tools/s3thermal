@@ -1,3 +1,7 @@
 (fp_lib_table
   (lib (name s3core)(type KiCad)(uri "$(KIPRJMOD)/s3core.pretty")(options "")(descr ""))
+  (lib (name fpc36)(type KiCad)(uri "$(KIPRJMOD)/fpc36.pretty")(options "")(descr ""))
+  (lib (name fpc40)(type KiCad)(uri "$(KIPRJMOD)/fpc40.pretty")(options "")(descr ""))
+  (lib (name Card)(type KiCad)(uri "$(KIPRJMOD)/Card.pretty")(options "")(descr ""))
+  (lib (name tfcard)(type KiCad)(uri "$(KIPRJMOD)/tfcard.pretty")(options "")(descr ""))
 )
