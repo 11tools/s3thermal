@@ -1638,7 +1638,7 @@ Wire Wire Line
 	22000 8050 22300 8050
 Connection ~ 22300 8050
 Text Label 15950 11100 3    60   ~ 0
-TCLK
+TPCLK
 Text Label 16150 11050 3    60   ~ 0
 THSYNC
 Text Label 16250 11050 3    60   ~ 0
